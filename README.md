@@ -5,7 +5,9 @@
 - 🔭 I’m currently working full time  
   
 
-- 🌱 I’m currently learning React and Spring  
+- 🌱 I’m currently learning React and all related to Frontend.
+
+- 🌱 Next Backend with NodeJS for the MERN stack.
   
 
 - ⚡ Español - English  
