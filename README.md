@@ -1,16 +1,18 @@
 
 ### <div align="center">I'm César F. Castro Parada, a full-time Frontend and desktop developer 👨‍💻 working remotely and presential since 2019 🚀</div>  
   
+  <br/>
 
-- 🔭 I’m currently working full time  
+- 🔭 I’m currently working full time.
   
-
-- 🌱 I’m currently learning React and all related to Frontend.
-
-- 🌱 Next Backend with NodeJS for the MERN stack.
   
+- 🐱‍👤 Learning React and all related to Frontend.
 
-- ⚡ Español - English  
+- ☁ Next Backend with NodeJS, Express and MongoDB for the MERN stack.
+  
+- 🌎 Español - English  
+
+- 🐻 My personal website for learningn resources [Lordbear's Learning Resources](https://lordbear.notion.site/lordbear/Learning-resources-7c54a5b146b0457bbe74b90261f3594b). 
   
 
 <br/>  
