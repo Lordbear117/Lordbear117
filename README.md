@@ -12,7 +12,7 @@
   
 - 🌎 Español - English  
 
-- 🐻 My personal website for learningn resources [Lordbear's Learning Resources](https://lordbear.notion.site/lordbear/Learning-resources-7c54a5b146b0457bbe74b90261f3594b). 
+- 🐻 My personal website for learning resources [Lordbear's Learning Resources](https://lordbear.notion.site/lordbear/Learning-resources-7c54a5b146b0457bbe74b90261f3594b). 
   
 
 <br/>  
