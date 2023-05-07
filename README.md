@@ -4,15 +4,26 @@
   <br/>
 
 - 🔭 I’m currently working full time.
-  
-  
-- 🐱‍👤 Learning React and all related to Frontend.
 
-- ☁ Next Backend with NodeJS, Express and MongoDB for the MERN stack.
-  
-- 🌎 Español - English  
+- 🌎 Español - English
 
-- 🐻 My personal website for learning resources [Lordbear's Learning Resources](https://lordbear.notion.site/lordbear/Learning-resources-7c54a5b146b0457bbe74b90261f3594b). 
+- 🎓 Professional in Coding by DEV.F.
+
+- 🎓 Certified Tech Developer by Digital House.
+
+- 🎓 Google Project Management by Coursera.
+  
+- 🐱‍👤 Praciticing React and Frontend Development.
+
+- ☁ Backend with NodeJS, Express and MongoDB for the MERN stack.
+
+<br/>
+
+- 🐻 My personal website for learning resources and tools that I have been saving [Lordbear's Learning Resources](https://lordbear.notion.site/lordbear/Learning-resources-7c54a5b146b0457bbe74b90261f3594b). 
+
+<br/>
+
+- 👾 My Discord Server to study, networking and more. [Lordbear's Discord Server](https://discord.gg/GvkBAa5n2H). ( WORK IN PROGRESS! Feel free to DM me if you want to contibute with something or share and idea.)
   
 
 <br/>  
