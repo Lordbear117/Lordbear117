@@ -24,10 +24,8 @@
 <br/>
 
 - 👾 My Discord Server to study, networking and more. [Lordbear's Discord Server](https://discord.gg/GvkBAa5n2H). ( WORK IN PROGRESS! Feel free to DM me if you want to contibute with something or share and idea.)
-  
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -108,19 +106,22 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lordbear117&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>  
 
-  
+<div align="center">
+	<img src="./assets/github-contribution-grid-snake.svg" />
+</div>
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Lordbear117&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
 
 <div align="center"></div>
-<br />
+
+<br/>
 
 ----
