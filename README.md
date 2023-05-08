@@ -104,6 +104,9 @@
 
 
 ## Github Stats  
+
+<br/> 
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lordbear117&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -118,10 +121,8 @@
 <img src="https://komarev.com/ghpvc/?username=Lordbear117&&style=flat-square" align="center" />
 </div>  
 
-<br/>  
+<p align="center">
+        <img src="./assets/Bottom.svg" alt="Github Stats" />
+</p>
 
 <div align="center"></div>
-
-<br/>
-
-----
