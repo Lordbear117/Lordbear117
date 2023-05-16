@@ -12,6 +12,8 @@
 - 🎓 Certified Tech Developer by Digital House.
 
 - 🎓 Google Project Management by Coursera.
+
+- 🎓 Motoko Bootcamp 2023.
   
 - 🐱‍👤 Praciticing React and Frontend Development.
 
