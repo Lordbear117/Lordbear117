@@ -15,7 +15,7 @@
 
 - 🎓 Motoko Bootcamp 2023.
   
-- 🐱‍👤 Praciticing React and Frontend Development.
+- 🐱‍👤 Practicing React and Frontend Development.
 
 - ☁ Backend with NodeJS, Express and MongoDB for the MERN stack.
 
