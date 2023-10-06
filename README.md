@@ -17,8 +17,6 @@
   
 - 🐱‍👤 Practicing React and Frontend Development.
 
-- ☁ Backend with NodeJS, Express and MongoDB for the MERN stack.
-
 <br/>
 
 - 🐻 My personal website for learning resources and tools that I have been saving [Lordbear's Learning Resources](https://lordbear.notion.site/lordbear/Learning-resources-7c54a5b146b0457bbe74b90261f3594b). 
