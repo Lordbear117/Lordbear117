@@ -14,6 +14,8 @@
 - 🎓 Google Project Management by Coursera.
 
 - 🎓 Motoko Bootcamp 2023.
+
+- 🎓 Java Fullstack by Bedu.
   
 - 🐱‍👤 Practicing React and Frontend Development.
 
