@@ -1,5 +1,5 @@
 
-### <div align="center">I'm César F. Castro Parada, a full-time Frontend and desktop developer 👨‍💻 working remotely and presential since 2019 🚀</div>  
+### <div align="center">I'm César F. Castro Parada, a full-time Fullstack and desktop developer 👨‍💻 working remotely and presential since 2019 🚀</div>  
   
   <br/>
 
@@ -17,7 +17,7 @@
 
 - 🎓 Java Fullstack by Bedu.
   
-- 🐱‍👤 Practicing React and Frontend Development.
+- 🐱‍👤 Practicing Spring Boot and Microservices Development.
 
 <br/>
 
