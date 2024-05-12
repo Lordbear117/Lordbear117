@@ -111,13 +111,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lordbear117&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-<div align="center">
-	<img src="./assets/github-contribution-grid-snake.svg" />
-</div>
-
-<br/>  
+<br/>   
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Lordbear117&&style=flat-square" align="center" />
