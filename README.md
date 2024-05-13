@@ -7,6 +7,8 @@
 
 - 🌎 Español - English
 
+- 🎓 Certified in AWS, Azure, Google Cloud, Oracle OCI.
+
 - 🎓 Professional in Coding by DEV.F.
 
 - 🎓 Certified Tech Developer by Digital House.
@@ -18,6 +20,8 @@
 - 🎓 Java Fullstack by Bedu.
   
 - 🐱‍👤 Practicing Spring Boot and Microservices Development.
+
+- 🐻 Enrolled in a master's in DevOps.
 
 <br/>
 
