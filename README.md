@@ -1,9 +1,14 @@
 
-### <div align="center">I'm César F. Castro Parada, a full-time Fullstack and desktop developer 👨‍💻 working remotely and presential since 2019 🚀</div>  
-  
+### <div align="center">Hi, I'm César F. Castro Parada, a Fullstack Software Developer 👨‍💻 working since 2019 🚀</div>  
+  <div align="center">
+<img src="https://komarev.com/ghpvc/?username=Lordbear117&&style=flat-square" align="center" />
+</div> 
+
   <br/>
 
 - 🔭 I’m currently working full time.
+
+<img align="right" height="250" src="./assets/icecreambear.gif" />
 
 - 🌎 Español - English
 
@@ -79,7 +84,6 @@
 
 <br/>  
 
-
 ## 🎓 Certificates & Trainings
 <!--START_SECTION:badges-->
 
@@ -95,7 +99,6 @@
 Find all [my badges on Credly.com](https://www.credly.com/users/Lordbear117/badges).
 
 <br/> 
-
 
 ## Connect with me  
 <div align="center">
@@ -118,22 +121,21 @@ Find all [my badges on Credly.com](https://www.credly.com/users/Lordbear117/badg
 ## Github Stats  
 
 <br/> 
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lordbear117&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!--<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lordbear117&show_icons=true&count_private=true&hide_border=true" align="center" /></div> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lordbear117&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lordbear117&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <br/>   
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Lordbear117&&style=flat-square" align="center" />
-</div>  
-
-<p align="center">
-        <img src="./assets/Bottom.svg" alt="Github Stats" />
-</p>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Lordbear117/Lordbear117/output/snake.svg" alt="Snake animation" />
+
+<p align="center">
+        <img src="./assets/Bottom.svg" alt="Github Stats" />
+</p>
 
 <div align="center"></div>
 
