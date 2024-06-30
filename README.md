@@ -131,6 +131,10 @@ Find all [my badges on Credly.com](https://www.credly.com/users/Lordbear117/badg
         <img src="./assets/Bottom.svg" alt="Github Stats" />
 </p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 <div align="center"></div>
 
 
