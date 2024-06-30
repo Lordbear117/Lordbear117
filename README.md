@@ -80,6 +80,23 @@
 <br/>  
 
 
+## 🎓 Certificates & Trainings
+<!--START_SECTION:badges-->
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/c7a95f64-3da1-4417-a9d7-893c48101e4d "AWS Certified Cloud Practitioner")
+[![Explore Emerging Tech](https://images.credly.com/size/110x110/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)](http://www.credly.com/badges/b592bd5d-e227-406d-ab3c-972db04c70d4 "Explore Emerging Tech")
+[![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/110x110/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](http://www.credly.com/badges/c6a12123-3520-4ba0-9411-3ff9756efda5 "Implement Load Balancing on Compute Engine Skill Badge")
+[![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](http://www.credly.com/badges/2ba8e2d1-c819-47c5-9ff8-e6ecd868b05c "Set Up an App Dev Environment on Google Cloud Skill Badge")
+[![Agile Explorer](https://images.credly.com/size/110x110/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)](http://www.credly.com/badges/3b88d2d6-e820-4dcf-8416-8c6281909155 "Agile Explorer")
+[![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/110x110/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](http://www.credly.com/badges/b0e49528-1a74-4ff9-ac60-1b7d5c8fe2c9 "Build a Secure Google Cloud Network Skill Badge")
+[![Prepare Data for ML APIs on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png)](http://www.credly.com/badges/77d8d3b6-bd42-46ce-866d-daabab2b2bba "Prepare Data for ML APIs on Google Cloud Skill Badge")
+[![Certificado de gestión de proyectos de Google](https://images.credly.com/size/110x110/images/195d0589-8a46-4366-bedc-41749c663a42/image.png)](http://www.credly.com/badges/21ff20d0-2c0d-42a4-9679-5e2969868181 "Certificado de gestión de proyectos de Google")
+<!--END_SECTION:badges-->
+Find all [my badges on Credly.com](https://www.credly.com/users/Lordbear117/badges).
+
+<br/> 
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Lordbear117" target="_blank">
@@ -96,9 +113,7 @@
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 
@@ -115,18 +130,6 @@
 <p align="center">
         <img src="./assets/Bottom.svg" alt="Github Stats" />
 </p>
-
-<!--START_SECTION:badges-->
-
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/c7a95f64-3da1-4417-a9d7-893c48101e4d "AWS Certified Cloud Practitioner")
-[![Explore Emerging Tech](https://images.credly.com/size/110x110/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)](http://www.credly.com/badges/b592bd5d-e227-406d-ab3c-972db04c70d4 "Explore Emerging Tech")
-[![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/110x110/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](http://www.credly.com/badges/c6a12123-3520-4ba0-9411-3ff9756efda5 "Implement Load Balancing on Compute Engine Skill Badge")
-[![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](http://www.credly.com/badges/2ba8e2d1-c819-47c5-9ff8-e6ecd868b05c "Set Up an App Dev Environment on Google Cloud Skill Badge")
-[![Agile Explorer](https://images.credly.com/size/110x110/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)](http://www.credly.com/badges/3b88d2d6-e820-4dcf-8416-8c6281909155 "Agile Explorer")
-[![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/110x110/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](http://www.credly.com/badges/b0e49528-1a74-4ff9-ac60-1b7d5c8fe2c9 "Build a Secure Google Cloud Network Skill Badge")
-[![Prepare Data for ML APIs on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png)](http://www.credly.com/badges/77d8d3b6-bd42-46ce-866d-daabab2b2bba "Prepare Data for ML APIs on Google Cloud Skill Badge")
-[![Certificado de gestión de proyectos de Google](https://images.credly.com/size/110x110/images/195d0589-8a46-4366-bedc-41749c663a42/image.png)](http://www.credly.com/badges/21ff20d0-2c0d-42a4-9679-5e2969868181 "Certificado de gestión de proyectos de Google")
-<!--END_SECTION:badges-->
 
 <div align="center"></div>
 
