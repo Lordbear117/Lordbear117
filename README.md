@@ -12,19 +12,21 @@
 
 - 🌎 Español - English
 
-- 🎓 Certified in AWS, Azure, Google Cloud, Oracle OCI.
+- 🎓 Certified in [AWS](https://www.credly.com/badges/c7a95f64-3da1-4417-a9d7-893c48101e4d/public_url), [Azure](https://learn.microsoft.com/en-us/users/lordbear117/credentials/84c556187a90bfb6?ref=https%3A%2F%2Fwww.linkedin.com%2F), Google Cloud, [Oracle OCI](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D3B09AC80BE7F454C5418D7D32AF2B2378F72BF68364179F5D502036050D22B1#).
 
 - 🎓 Professional in Coding by DEV.F.
 
 - 🎓 Certified Tech Developer by Digital House.
 
-- 🎓 Google Project Management by Coursera.
+- 🎓 [Google Project Management](https://www.coursera.org/account/accomplishments/professional-cert/6RPRWXN7XW49) by Coursera.
 
 - 🎓 Motoko Bootcamp 2023.
 
-- 🎓 Java Fullstack by Bedu.
+- 🎓 [Java Fullstack](https://www.acreditta.com/credential/8d65fa51-c19d-4209-92d8-cfafd5a1c1a7?utm_source=copy&resource_type=badge&resource=8d65fa51-c19d-4209-92d8-cfafd5a1c1a7) by Bedu.
+
+- 🎓 Wisar Pro [Certified Freelancer](https://wisar.pro/wp-content/certificates/elanx24/certificado-de-finalizacion-cesar-fernando-castro-parada-ovngsilh.pdf)
   
-- 🐱‍👤 Practicing Spring Boot and Microservices Development.
+- 🐱‍👤 Practicing Spring Boot, Microservices Development and DevOps.
 
 - 🐻 Enrolled in a master's in DevOps.
 
