@@ -116,7 +116,9 @@
         <img src="./assets/Bottom.svg" alt="Github Stats" />
 </p>
 
-<div align="center"></div>
-
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+
+<div align="center"></div>
+
+
