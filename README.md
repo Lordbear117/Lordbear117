@@ -88,7 +88,6 @@
 
 ## 🎓 Certificates & Trainings
 <!--START_SECTION:badges-->
-
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/c7a95f64-3da1-4417-a9d7-893c48101e4d "AWS Certified Cloud Practitioner")
 [![Explore Emerging Tech](https://images.credly.com/size/110x110/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)](http://www.credly.com/badges/b592bd5d-e227-406d-ab3c-972db04c70d4 "Explore Emerging Tech")
 [![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/110x110/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](http://www.credly.com/badges/c6a12123-3520-4ba0-9411-3ff9756efda5 "Implement Load Balancing on Compute Engine Skill Badge")
