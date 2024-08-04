@@ -96,6 +96,7 @@
 [![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/110x110/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](http://www.credly.com/badges/b0e49528-1a74-4ff9-ac60-1b7d5c8fe2c9 "Build a Secure Google Cloud Network Skill Badge")
 [![Prepare Data for ML APIs on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png)](http://www.credly.com/badges/77d8d3b6-bd42-46ce-866d-daabab2b2bba "Prepare Data for ML APIs on Google Cloud Skill Badge")
 [![Certificado de gestión de proyectos de Google](https://images.credly.com/size/110x110/images/195d0589-8a46-4366-bedc-41749c663a42/image.png)](http://www.credly.com/badges/21ff20d0-2c0d-42a4-9679-5e2969868181 "Certificado de gestión de proyectos de Google")
+[![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/34dc5092-a6ed-485c-9258-b458ef8f237a "GitHub Foundations")
 <!--END_SECTION:badges-->
 Find all [my badges on Credly.com](https://www.credly.com/users/Lordbear117/badges).
 
