@@ -12,7 +12,7 @@
 
 - 🌎 Español - English
 
-- 🎓 Certified in [AWS](https://www.credly.com/badges/c7a95f64-3da1-4417-a9d7-893c48101e4d/public_url), [Azure](https://learn.microsoft.com/en-us/users/lordbear117/credentials/84c556187a90bfb6?ref=https%3A%2F%2Fwww.linkedin.com%2F), Google Cloud, [Oracle OCI](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D3B09AC80BE7F454C5418D7D32AF2B2378F72BF68364179F5D502036050D22B1#).
+- 🎓 Certified in [AWS](https://www.credly.com/badges/c7a95f64-3da1-4417-a9d7-893c48101e4d/public_url), [Azure](https://learn.microsoft.com/en-us/users/lordbear117/credentials/84c556187a90bfb6?ref=https%3A%2F%2Fwww.linkedin.com%2F), [Google Cloud](https://www.cloudskillsboost.google/public_profiles/e3952ec4-873a-4986-a468-ab117f8f9c3a), [Oracle OCI](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D3B09AC80BE7F454C5418D7D32AF2B2378F72BF68364179F5D502036050D22B1#).
 
 - 🎓 Professional in Coding by DEV.F.
 
@@ -82,12 +82,19 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="Vagrant" width="40" height="40"/> </a> &nbsp;
+
+
+
+
 </p>
 
 <br/>  
 
 ## 🎓 Certificates & Trainings
 <!--START_SECTION:badges-->
+<!--
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/c7a95f64-3da1-4417-a9d7-893c48101e4d "AWS Certified Cloud Practitioner")
 [![Explore Emerging Tech](https://images.credly.com/size/110x110/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)](http://www.credly.com/badges/b592bd5d-e227-406d-ab3c-972db04c70d4 "Explore Emerging Tech")
 [![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/110x110/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](http://www.credly.com/badges/c6a12123-3520-4ba0-9411-3ff9756efda5 "Implement Load Balancing on Compute Engine Skill Badge")
@@ -97,6 +104,22 @@
 [![Agile Explorer](https://images.credly.com/size/110x110/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)](http://www.credly.com/badges/3b88d2d6-e820-4dcf-8416-8c6281909155 "Agile Explorer")
 [![Certificado de gestión de proyectos de Google](https://images.credly.com/size/110x110/images/195d0589-8a46-4366-bedc-41749c663a42/image.png)](http://www.credly.com/badges/21ff20d0-2c0d-42a4-9679-5e2969868181 "Certificado de gestión de proyectos de Google")
 [![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/34dc5092-a6ed-485c-9258-b458ef8f237a "GitHub Foundations")
+-->
+<div style="text-align: right;">
+  <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" height="110" alt="AWS Certified Cloud Practitioner">
+  <img src="https://images.credly.com/size/110x110/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png" width="110" height="110" alt="Explore Emerging Tech">
+  <img src="https://images.credly.com/size/110x110/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png" width="110" height="110" alt="Implement Load Balancing on Compute Engine Skill Badge">
+  <img src="https://images.credly.com/size/110x110/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" width="110" height="110" alt="Set Up an App Dev Environment on Google Cloud Skill Badge">
+  <img src="https://images.credly.com/size/110x110/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" width="110" height="110" alt="Prepare Data for ML APIs on Google Cloud Skill Badge">
+  <img src="https://images.credly.com/size/110x110/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png" width="110" height="110" alt="Build a Secure Google Cloud Network Skill Badge">
+  <img src="https://images.credly.com/size/110x110/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png" width="110" height="110" alt="Agile Explorer">
+  <img src="https://images.credly.com/size/110x110/images/195d0589-8a46-4366-bedc-41749c663a42/image.png" width="110" height="110" alt="Certificado de gestión de proyectos de Google">
+  <img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="110" height="110" alt="GitHub Foundations">
+  <img src="https://www.acreditta.com/_next/image?url=https%3A%2F%2Facreditta-rutas-prod.s3.amazonaws.com%2Fmedia%2Fpublic%2Fbadge_templates%2Fimages%2F1678_badge_template_ec39c235-5b36-47f4-927f-3d1d0137827d%2Fmedium.png%3Ftime%3D1726351018921&w=3840&q=75" width="110" height="110" alt="Fullstack Developer Java">
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" width="150" height="110" alt="Oracle Cloud Infrastructure Foundations Associate">
+  <img src="https://learn.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="110" height="110" alt="Azure Fundamentals">
+</div>
+
 <!--END_SECTION:badges-->
 Find all [my badges on Credly.com](https://www.credly.com/users/Lordbear117/badges).
 
