@@ -99,10 +99,17 @@
 [![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](http://www.credly.com/badges/2ba8e2d1-c819-47c5-9ff8-e6ecd868b05c "Set Up an App Dev Environment on Google Cloud Skill Badge")
 [![Explore Emerging Tech](https://images.credly.com/size/110x110/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png)](http://www.credly.com/badges/b592bd5d-e227-406d-ab3c-972db04c70d4 "Explore Emerging Tech")
 [![Prepare Data for ML APIs on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png)](http://www.credly.com/badges/77d8d3b6-bd42-46ce-866d-daabab2b2bba "Prepare Data for ML APIs on Google Cloud Skill Badge")
-[![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/110x110/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](http://www.credly.com/badges/b0e49528-1a74-4ff9-ac60-1b7d5c8fe2c9 "Build a Secure Google Cloud Network Skill Badge")
-[![Agile Explorer](https://images.credly.com/size/110x110/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)](http://www.credly.com/badges/3b88d2d6-e820-4dcf-8416-8c6281909155 "Agile Explorer")
+<a href="http://www.credly.com/badges/b0e49528-1a74-4ff9-ac60-1b7d5c8fe2c9" title="Build a Secure Google Cloud Network Skill Badge">
+  <img src="https://images.credly.com/size/110x110/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png" alt="Build a Secure Google Cloud Network Skill Badge" width="110" height="110">
+</a>
+<a href="http://www.credly.com/badges/3b88d2d6-e820-4dcf-8416-8c6281909155" title="Agile Explorer">
+  <img src="https://images.credly.com/size/110x110/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png" alt="Agile Explorer" width="110" height="110">
+</a>
 [![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/34dc5092-a6ed-485c-9258-b458ef8f237a "GitHub Foundations")
 [![Certificado de gestión de proyectos de Google](https://images.credly.com/size/110x110/images/195d0589-8a46-4366-bedc-41749c663a42/image.png)](http://www.credly.com/badges/21ff20d0-2c0d-42a4-9679-5e2969868181 "Certificado de gestión de proyectos de Google")
+<a href="https://www.credly.com/badges/036d0a52-7220-4547-b5e5-365efac4c941/public_url" title="Certificado de Ciberseguridad de Google">
+  <img src="https://images.credly.com/size/340x340/images/be625773-6d9f-48c0-b530-81897b58b1bf/image.png" alt="Credly Badge" width="110" height="110">
+</a>
 <!--END_SECTION:badges-->
 Find all [my badges on Credly.com](https://www.credly.com/users/Lordbear117/badges).
 
