@@ -1,5 +1,5 @@
 
-### <div align="center">Hi, I'm César F. Castro Parada, a Fullstack Software Developer 👨‍💻 working since 2019 🚀</div>  
+### <div align="center">Hi, I'm César F. Castro Parada, a Tech Lead/Fullstack Software Developer 👨‍💻 working since 2019 🚀</div>  
   <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Lordbear117&&style=flat-square" align="center" />
 </div> 
